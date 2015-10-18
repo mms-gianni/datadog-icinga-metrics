@@ -1,0 +1,10 @@
+init_config:
+
+instances:
+- site: "SITENAME"
+  cgiurl: "https://YOUR.MONITORINGHOST.com/cgi-bin/icinga"
+  #username: "YOURUSER"
+  #password: "YOURPASS"
+  # tags:
+  # - 'tag1:key1'
+  # - 'tag2:key2'
